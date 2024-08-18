@@ -1,4 +1,5 @@
--  👋 Hi, I’m **Shakespeare!**
+# Heya, I'm Shakespeare!
+
 -  Right now I'm learning the basics of spigot and wanting to develop minecraft servers!
   
 - 📫 You can contact me at
