@@ -2,7 +2,7 @@
 
 > - Right now I'm learning the basics of spigot and wanting to develop minecraft servers!
   
-- 📫 You can contact me at
+## 📫 You can contact me at
 > Email: `shakespeareanservices@gmail.com`
  
 > Discord: `_ishakespeare`
